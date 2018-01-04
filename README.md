@@ -2,6 +2,7 @@
 
 
     # setup
+    
     $ pip install -r requirements.txt
     
     $ python fetch_poloniex.py
