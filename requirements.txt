@@ -1,5 +1,5 @@
 jsonschema==2.6.0
-numpy==1.13.3
+numpy==1.21.0
 poloniex==0.4.7
 requests==2.20.0
 tabulate==0.8.2
